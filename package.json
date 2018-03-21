@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wkwiatek/react-hot-loader-minimal-boilerplate.git"
+    "url": "git+https://github.com/donyell-wang/react-hot-loader-minimal-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wkwiatek/react-hot-loader-minimal-boilerplate/issues"
+    "url": "https://github.com/donyell-wang/react-hot-loader-minimal-boilerplate/issues"
   },
-  "homepage": "https://github.com/wkwiatek/react-hot-loader-minimal-boilerplate#readme",
+  "homepage": "https://github.com/donyell-wang/react-hot-loader-minimal-boilerplate#readme",
   "dependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
@@ -27,7 +27,7 @@
     "babel-polyfill": "^6.23.0",
     "babel-preset-latest": "^6.22.0",
     "babel-preset-react": "^6.23.0",
-    "react-hot-loader": "^3.0.0-beta.6",
+    "react-hot-loader": "^4.0.0",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
   }

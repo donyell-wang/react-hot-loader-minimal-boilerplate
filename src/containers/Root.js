@@ -1,7 +1,6 @@
 import React from 'react'
+import { hot } from 'react-hot-loader'
 
-const Root = () => (
-  <div>Hello React Hot Loader!</div>
-)
+const App = () => <div>Hello world!</div>
 
-export default Root
+export default hot(module)(App)
